@@ -1,0 +1,10 @@
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\bin\Debug\Cubic-Spline.exe.config
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\bin\Debug\Cubic-Spline.exe
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\bin\Debug\Cubic-Spline.pdb
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic-Spline.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic_Spline.Form1.resources
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic_Spline.Properties.Resources.resources
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic-Spline.csproj.GenerateResource.cache
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic-Spline.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic-Spline.exe
+C:\Users\Paul\Documents\GitHub\Cubic-Spline\Cubic-Spline\Cubic-Spline\obj\Debug\Cubic-Spline.pdb
